@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD student in Epidemiology at the University of Wisconsin-Madison, where I also completed my MS in Statistics in 2016. My research focuses on statistical methods in spatial epidemiology, specifically working on spatial cluster detection across both space/time and applications to environmental health. I am also a Project Assistant with the CALS Statistical Consulting Lab and volunteer as a Data Carpentry instructor/helper teaching R to UW-Madison researchers.  
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mkamenetsky@wisc.edu](mailto:mkamenetsky@wisc.edu)
