@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student in Epidemiology at the University of Wisconsin-Madison, where I also completed my MS in Statistics in 2016. My research focuses on statistical methods in spatial epidemiology, specifically working on spatial cluster detection across both space/time and applications to environmental health. I am also a Project Assistant with the CALS Statistical Consulting Lab and volunteer as a Data Carpentry instructor/helper teaching R to UW-Madison researchers.  
+I am a PhD student in [Epidemiology](https://pophealth.wisc.edu/) at the University of Wisconsin-Madison, where I also completed my MS in [Statistics](https://www.stat.wisc.edu/) in 2016. My research focuses on statistical methods in spatial epidemiology, specifically working on spatial cluster detection and applications to environmental health. I am also a Project Assistant with the [CALS Statistical Consulting Lab](https://www.stat.wisc.edu/consulting-lab) and volunteer as a [Data Carpentry](http://www.datacarpentry.org/) instructor/helper teaching R to UW-Madison researchers. I was a 2016 Fellow at [Data Science for Social Good](https://dssg.uchicago.edu/) and have worked at the University of Chicago Booth School of Business [Accounting Research Center](https://research.chicagobooth.edu/arc) as a Research Professional.
 
 
 
