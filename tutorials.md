@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorials
-permalink: /Tutorials/
+permalink: /tutorials/
 ---
 
 [A Tutorial]()
