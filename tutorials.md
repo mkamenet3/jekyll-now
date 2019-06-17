@@ -4,6 +4,8 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
+Hello! This site is still under construction. To reach out, you can contact me at [mkamenetsky@wisc.edu](mailto:mkamenetsky@wisc.edu).
+
 ### Spatial Analysis
 
 [Using `tidycensus`](https://mkamenet3.github.io/SpatialRegPovertyR/usingtidycensus.html)
