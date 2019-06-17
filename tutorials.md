@@ -16,30 +16,30 @@ Hello! This site is still under construction. To reach out, you can contact me a
 
 These tutorials supplement the teaching note ["Spatial Regression Analysis of Poverty in R" (2019)](https://link.springer.com/article/10.1007/s40980-019-00048-0) by Kamenetsky, Chi, Wang, and Zhu (*Spatial Demography*, 2019). The `SpatialRegPovertyR` repository for these tutorials can be found [here](https://github.com/mkamenet3/SpatialRegPovertyR/tree/master/data).
 
-[Moran's I using Randomization vs. Monte Carlo]
+<!--[Moran's I using Randomization vs. Monte Carlo]-->
 
-[Introduction to `INLA`]
+<!--[Introduction to `INLA`]-->
 
 ### Experimental Design
 
-[One-way ANOVA]
+<!--[One-way ANOVA]-->
 
-[Response Surface Methodology]
+<!--[Response Surface Methodology]-->
 
-[Transformations: Log and Box-Cox]
+<!--[Transformations: Log and Box-Cox]-->
 
 ### Statistical Learning
 
-[Partial Least Squares Discriminant Analysis]
+<!--[Partial Least Squares Discriminant Analysis]-->
 
-[Partial Least Squares Regression]
+<!--[Partial Least Squares Regression]-->
 
 ### Other
 
-[Bootstrapping]
+<!--[Bootstrapping]-->
 
-[Best Linear Unbiased Predictors (BLUPs)]
+<!--[Best Linear Unbiased Predictors (BLUPs)]-->
 
-[Statistical Methods for Meta-Analysis]
+<!--[Statistical Methods for Meta-Analysis]-->
 
-[Interobserver Agreement]
+<!--[Interobserver Agreement]-->
