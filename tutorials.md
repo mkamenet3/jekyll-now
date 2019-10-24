@@ -20,7 +20,7 @@ These tutorials supplement the teaching note ["Spatial Regression Analysis of Po
 
 <!--[Introduction to `INLA`]-->
 
-### Experimental Design
+<!--### Experimental Design-->
 
 <!--[One-way ANOVA]-->
 
@@ -28,13 +28,13 @@ These tutorials supplement the teaching note ["Spatial Regression Analysis of Po
 
 <!--[Transformations: Log and Box-Cox]-->
 
-### Statistical Learning
+<!--### Statistical Learning-->
 
 <!--[Partial Least Squares Discriminant Analysis]-->
 
 <!--[Partial Least Squares Regression]-->
 
-### Other
+<!--### Other-->
 
 <!--[Bootstrapping]-->
 
