@@ -3,4 +3,6 @@ layout: post
 title: Teaching
 permalink: /teaching/
 ---
-Hello! This site is still under construction. To reach out, you can contact me at [mkamenetsky@wisc.edu](mailto:mkamenetsky@wisc.edu).
+
+- Graduate Student Lecturer, Statistics 679-III: Spatial Statistics for Lattice Data (Spring 2019, Spring 2020)
+- Teaching Assistant, Statistics 301: Introductory Statistics (Fall 2014)
