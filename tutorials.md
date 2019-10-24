@@ -4,7 +4,6 @@ title: Tutorials
 permalink: /tutorials/
 ---
 
-Hello! This site is still under construction. To reach out, you can contact me at [mkamenetsky@wisc.edu](mailto:mkamenetsky@wisc.edu).
 
 ### Spatial Analysis
 
@@ -43,3 +42,5 @@ These tutorials supplement the teaching note ["Spatial Regression Analysis of Po
 <!--[Statistical Methods for Meta-Analysis]-->
 
 <!--[Interobserver Agreement]-->
+
+Hello! This site is still under construction. To reach out, you can contact me at [mkamenetsky@wisc.edu](mailto:mkamenetsky@wisc.edu).
